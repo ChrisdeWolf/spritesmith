@@ -415,7 +415,16 @@ Spritesmith.run({
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint via `npm run lint` and test via `npm test`.
-
+Getting Started notes:
+  ```
+  1010  nvm install 16
+  1011  nvm use 16
+  1013  npm rebuild
+  1017  npm install -g phantomjs-prebuilt
+  1018  npm install
+  1019  npm run test
+  ```
+  
 ## Attribution
 [GitHub][github-icon] and [Twitter][twitter-icon] icons were taken from [Alex Peattie's JustVector Social Icons][justvector].
 
